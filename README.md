@@ -1,7 +1,9 @@
           Hi, I'm Sanapathi Narendra
 
 💻 Software Intern at Medsquire Technologies Pvt. Ltd.
-🎓 B.Tech – 4th Year (CSE)
+
+🎓 B.Tech – 4th Year (CSE).
+
 🚀 Currently training in MEAN Stack Technologies
 
 🛠️ Technologies & Skills
